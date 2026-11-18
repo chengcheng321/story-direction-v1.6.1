@@ -1,0 +1,11 @@
+{
+  "display_name": "剧情建议外置（勾选开关）v1.6.1",
+  "loading_order": 130,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "author": "ChatGPT",
+  "version": "1.6.1",
+  "description": "基于 v1.6：追加剧情建议时附带简短提醒，减少后续回复再次输出剧情建议。",
+  "css": "style.css"
+}

@@ -1,0 +1,10 @@
+/* Minimal settings-only styles. Inherits SillyTavern theme colors. */
+#storydir_settings_panel {
+  padding: 0.85em 1em;
+  margin: 0.45em 0;
+  border: 1px solid var(--SmartThemeBorderColor, currentColor);
+  border-radius: 0.5em;
+}
+#storydir_settings_panel .storydir-heading { font-weight: 600; margin-bottom: 0.55em; }
+#storydir_settings_panel .storydir-checkbox { display: flex; align-items: center; gap: 0.45em; cursor: pointer; }
+#storydir_settings_panel .storydir-help { opacity: 0.75; font-size: 0.86em; line-height: 1.45; margin-top: 0.5em; }
